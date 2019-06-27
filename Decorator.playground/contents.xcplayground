@@ -3,10 +3,10 @@
     <pages>
         <page name='Bad'/>
         <page name='PatternDemo'/>
+        <page name='Decorator'/>
         <page name='RealLifeUsage1'/>
         <page name='RealLifeUsage2'/>
         <page name='RealLifeUsage3'/>
-        <page name='Decorator'/>
         <page name='RealLifeUsage4'/>
     </pages>
 </playground>
